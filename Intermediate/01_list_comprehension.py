@@ -17,5 +17,5 @@ print(my_list)
 def sum_five(num):
     return num+5
 
-my_list = [sum_five(i) for i in range(8)] 
+my_list = [sum_five(i) for i in range(8)] #Se modifica el valor, antes de guardarlo en la lista nueva
 print(my_list)

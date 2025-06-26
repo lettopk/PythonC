@@ -1,13 +1,13 @@
 ### MODULES ###
 
 #Importacion de modulo de todo el fichero
-import my_module
+import Basic.my_module as my_module
 
 my_module.sum_value(5, 3, 1)
 my_module.print_value("Hola python!")
 
 #Importacion de modulo  directa de la funcion
-from my_module import sum_value, print_value
+from Basic.my_module import sum_value, print_value
 
 sum_value(5, 3 ,1)
 print_value("Hola python!")

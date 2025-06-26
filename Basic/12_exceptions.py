@@ -44,4 +44,3 @@ except TypeError as e:  #Captura la info del error para typeError
     print(e)
 except Exception as exception: #Captura la info del error generico que se presento
     print(exception)
-    
