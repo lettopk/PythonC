@@ -61,3 +61,7 @@ En esta sección se exploran conceptos más avanzados y útiles para proyectos r
 
 ```bash
 pip install -r requirements.txt
+
+🧠 Autor
+Marlon Tarazona
+https://github.com/lettopk | https://www.linkedin.com/in/marlontarazona/
